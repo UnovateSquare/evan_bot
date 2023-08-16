@@ -1,0 +1,24 @@
+{
+  "token": "MTEzMDE4NDE4ODI4MTIzNzU4Nw.GNYS3r.W3mbObTWF8lc-NSo-R1ZLSWVSCVsge5vYBSm3E",
+  "clientID": "1130184188281237587",
+  "prefix": ">",
+  "owners": [
+    "810475442880118784",
+    "963674250055655474"
+  ],
+  "color": {
+    "bot": "#00b3ff"
+  },
+  "emoji": {
+    "first": "<:arriereplus:1100544939642859550>",
+    "next": "<:avant:1100543488153624616>",
+    "back": "<:arriere:1100543446034415659>",
+    "last": "<:avantplus:1100544847024230421>",
+    "eclair": "<a:bzz:1125777125727817759>",
+    "fire": "<:fire:1125776438050693230>"
+  },
+  "logsChannel": "1102999439557275768",
+  "welcomeCh": "1102988085999968276",
+  "ticketCategory": "1130269142658854944",
+  "ticketSupportRoleId": "1102988017716699207"
+}
